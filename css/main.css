@@ -1,0 +1,31 @@
+form {
+	text-align: center;
+
+}
+
+.header {
+	text-align: center;
+	margin-top: 200px;
+}
+h1 {
+	font-size: 40px;
+}
+li {
+	 
+	font-size: 25px;
+
+}	
+body {
+	background-image:url("../img/bg.jpg");
+	text-align: left;
+	background-size:cover; 
+	z-index: -20;
+	font-family: 'Damion', cursive;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+}
